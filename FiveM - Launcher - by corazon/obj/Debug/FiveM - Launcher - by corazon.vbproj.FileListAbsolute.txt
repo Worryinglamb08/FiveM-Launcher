@@ -1,0 +1,12 @@
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\bin\Debug\FiveM - Launcher - by corazon.exe.config
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\bin\Debug\FiveM - Launcher - by corazon.exe
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\bin\Debug\FiveM - Launcher - by corazon.pdb
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\bin\Debug\FiveM - Launcher - by corazon.xml
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\obj\Debug\FiveM - Launcher - by corazon.vbprojAssemblyReference.cache
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\obj\Debug\FiveM___Launcher___by_corazon.Form1.resources
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\obj\Debug\FiveM___Launcher___by_corazon.Resources.resources
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\obj\Debug\FiveM - Launcher - by corazon.vbproj.GenerateResource.cache
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\obj\Debug\FiveM - Launcher - by corazon.vbproj.CoreCompileInputs.cache
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\obj\Debug\FiveM - Launcher - by corazon.exe
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\obj\Debug\FiveM - Launcher - by corazon.xml
+C:\Users\zouho\source\repos\FiveM - Launcher - by corazon\obj\Debug\FiveM - Launcher - by corazon.pdb
