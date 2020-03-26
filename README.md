@@ -1,7 +1,6 @@
 # FiveM Launcher
-Pô encore terminer 
+Avec mes talents extraordinaires de photoshopeur, j'ai pu realiser ce launcher incessament sous peu, je le release car j'adore la commu fr :)
 
-[![HitCount](http://hits.dwyl.com/corazon2/FiveM-Launcher.svg)](http://hits.dwyl.com/corazon2/FiveM-Launcher)
-
-# SVP
-S'il y'a un graphiste pour m'aider dans le desing du launcher, car je suis pô graphiste, me contacter sur discord : corazon#0004
+<p align="center">
+<img width="80%" src="https://cdn.discordapp.com/attachments/663694574450901022/692798698920345700/unknown.png">
+</p>
